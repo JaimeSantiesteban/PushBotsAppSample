@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "809212401240",
+    "firebase_url": "https://pushbotsappsample.firebaseio.com",
+    "project_id": "pushbotsappsample",
+    "storage_bucket": "pushbotsappsample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809212401240:android:759292eb6ce252d1",
+        "android_client_info": {
+          "package_name": "com.mac.training.pushbotsappsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809212401240-03c0l1hg9kooit7dsd3p17sk0jfi5228.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mac.training.pushbotsappsample",
+            "certificate_hash": "F408C7123C494F8BB37A412E8DFA381EBFA98993"
+          }
+        },
+        {
+          "client_id": "809212401240-tebt0gcs0m6ub6qvug32vqhg4a8rt6v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ3M6AjJjfZhf2JQHE300H7oYSjivA4_4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809212401240-tebt0gcs0m6ub6qvug32vqhg4a8rt6v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
